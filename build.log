@@ -1,0 +1,6 @@
+Logfile initialized
+[INFO] logfile = D:\Rob\svn\trunk\Contracts\MobiManage\Workspaces\TestAndroid\build.log
+[DEBUG] C:\Users\Rob\AppData\Roaming\Titanium\mobilesdk\win32\1.8.2\android\builder.py simulator TestAndroid C:\Program Files\Android\android-sdk D:\Rob\svn\trunk\Contracts\MobiManage\Workspaces\TestAndroid a 4 HVGA /127.0.0.1:59105
+[INFO] Building TestAndroid for Android ... one moment
+[ERROR] JDK version 'javac' is not recognized as an internal or external command,
+operable program or batch file. detected, but 1.6 is required
